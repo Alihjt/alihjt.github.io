@@ -1,7 +1,7 @@
 ---
 title:  "ProgDTD: Progressive learned image compression with double-tail-drop training"
 date:   2023-05-03 00:00:00 +00:00
-image: /publications/images/progdtd.gif
+image: /publications/images/progdtd.png
 author: "A Hojjat, J Haberer, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, O Landsiedel"
 venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Workshop)"
