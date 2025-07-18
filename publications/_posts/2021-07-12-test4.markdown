@@ -1,20 +1,23 @@
 ---
-title:  "ProgDTD: Progressive learned image compression with double-tail-drop training"
-date:   2023-01-01 00:00:00 +00:00
-image: /publications/images/project-image-on-hover.jpg
-image_onhover: /publications/images/project-image.jpg
-author: "A Hojjat, J Haberer, O Landsiedel"
-authors: "<strong>A Hojjat</strong>, J Haberer, O Landsiedel"
-venue: "Accepted at NTIRE Workshop, CVPR"
+title:  "LimitNet: Progressive, Content‑Aware Image Offloading for Extremely Weak Devices & Networks"
+date:   2024-06-03 00:00:00 +00:00
+image: /publications/images/limitnet.gif
+author: "A Hojjat, J Haberer, T Zainab, O Landsiedel"
+authors: "<strong>A Hojjat</strong>, J Haberer, T Zainab, O Landsiedel"
+venue: "Accepted at MobiSys ’24 (ICAC 2024)"
 bib: |
-  @inproceedings{Hojjat2023ProgDTD,
-    author = {Hojjat, A and Haberer, J and Landsiedel, O},
-    title = {ProgDTD: Progressive learned image compression with double-tail-drop training},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-    year = {2023}
+  @inproceedings{Hojjat2024LimitNet,
+    author = {Hojjat, Ali and Haberer, Janek and Zainab, Tayyaba and Landsiedel, Olaf},
+    title = {LimitNet: Progressive, Content‑Aware Image Offloading for Extremely Weak Devices \& Networks},
+    booktitle = {Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services (MobiSys)},
+    year = {2024},
+    month = {June},
+    pages = {519--533},
+    doi = {10.1145/3643832.3661856}
   }
 links:
-  Code: https://github.com/ds-kiel/progdtd
-  arXiv: https://arxiv.org/abs/2305.02145
+  Code: https://github.com/ds-kiel/LimitNet
+  arXiv: https://arxiv.org/abs/2504.13736
+  DOI: https://doi.org/10.1145/3643832.3661856
 ---
-A method for image compression using double-tail-drop training to improve progressive performance.
+LimitNet is a **progressive, content-aware encoder** for extremely weak IoT devices using LPWAN-style networks. It prioritizes and transmits only the most informative parts of an image, enabling cloud inference under severe bandwidth, packet loss, and device constraints—achieving up to **18 pp higher accuracy on CIFAR‑100** and **83% bandwidth savings** compared to SOTA.  [oai_citation:0‡arxiv.org](https://arxiv.org/abs/2504.13736?utm_source=chatgpt.com)
