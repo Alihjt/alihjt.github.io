@@ -1,19 +1,19 @@
 ---
-title:  "Another title of the publication"
-date:   2021-07-12 09:26:00 +00:00
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
-authors: "<strong>John Doe</strong>"
-venue: "Venue"
+title:  "ProgDTD: Progressive learned image compression with double-tail-drop training"
+date:   2023-01-01 00:00:00 +00:00
+# image: /publications/images/progdtd.jpg
+# image_onhover: /publications/images/progdtd-hover.jpg
+author: "A Hojjat, J Haberer, O Landsiedel"
+authors: "<strong>A Hojjat</strong>, <strong>J Haberer</strong>, <strong>O Landsiedel</strong>"
+venue: "CVPR 2023"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Another title of the publication},
-    year = {2021}
+  @inproceedings{Hojjat2023ProgDTD,
+    author = {Hojjat, A and Haberer, J and Landsiedel, O},
+    title = {ProgDTD: Progressive learned image compression with double-tail-drop training},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year = {2023}
   }
 links:
-  code: https://github.com/vsimkus/academic-jekyll
+  code: https://github.com/ds-kiel/progdtd
 ---
-Brief description of another project.
+A method for image compression using double-tail-drop training to improve progressive performance.
