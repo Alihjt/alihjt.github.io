@@ -4,6 +4,7 @@ date:   2024-09-26 00:00:00 +00:00
 image: /publications/images/hydravit.png
 author: "J Haberer, A Hojjat, O Landsiedel"
 authors: "J Haberer*, <strong>A Hojjat*</strong>, O Landsiedel"
+"*: Equal Contribution"
 venue: "Presented at NeurIPS 2024 (Main Track - Poster)"
 bib: |
   @inproceedings{Haberer2024HydraViT,
@@ -15,9 +16,10 @@ bib: |
     year = {2024},
     month = {December}
   }
+---
 links:
   Code: https://github.com/ds-kiel/HydraViT
   arXiv: https://arxiv.org/abs/2409.17978
 ---
-*: Equal Contribution
-HydraViT introduces a **stacked‑head stochastic training** method for Vision Transformers, producing a single model that embeds up to **10 subnetworks**, each with varying head counts. It adapts dynamically to hardware constraints, yielding an ImageNet‑1K accuracy boost of up to **5 pp at equal GMACs** and **7 pp at equal throughput** versus state‑of‑the‑art baselines.  [oai_citation:0‡arxiv.org](https://arxiv.org/abs/2409.17978?utm_source=chatgpt.com)
+
+HydraViT introduces a **stacked‑head stochastic training** method for Vision Transformers, producing a single model that embeds up to **10 subnetworks**, each with varying head counts. It adapts dynamically to hardware constraints, yielding an ImageNet‑1K accuracy boost of up to **5 pp at equal GMACs** and **7 pp at equal throughput** versus state‑of‑the‑art baselines.
