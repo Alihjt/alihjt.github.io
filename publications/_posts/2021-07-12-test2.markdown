@@ -17,4 +17,4 @@ links:
   Code: https://github.com/ds-kiel/progdtd
   arXiv: https://arxiv.org/abs/2305.02145
 ---
-A method for image compression using double-tail-drop training to improve progressive performance.
+A method for image comping to improve progressive performance.
