@@ -1,19 +1,18 @@
 # basic information
-name: khang nguyen
+name: Ali Hojjat
 profile-pic: assets/img/new_pic.jpg
-pronunciation: /kʰæŋ/
-pronunciation-emoji: 🎧
+
 
 # # emoji indicator
 # emoji: 🍀
 # desc-emoji: four-leaf clover
 
 # # social links
-# scholar: https://scholar.google.com/citations?user=Z6_5ZTEAAAAJ
-# researchgate: https://www.researchgate.net/profile/Khang-Nguyen-133
-# github: https://github.com/mkhangg
-# youtube: https://www.youtube.com/@_m.khangg_
-# resume: assets/doc/Resume_KhangNguyen.pdf
+scholar: https://scholar.google.com/citations?user=Z6_5ZTEAAAAJ
+# researchgate:
+github: https://github.com/alihjt
+# youtube: 
+resume: assets/doc/Resume_KhangNguyen.pdf
 # projects: show            # delete "show" or leave it blank to hide this icon
 # location: https://maps.app.goo.gl/ChzvajkDzdL4RxEJ7
 # codepen: 
