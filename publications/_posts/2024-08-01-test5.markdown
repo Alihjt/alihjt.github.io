@@ -4,7 +4,7 @@ date:   2023-05-03 00:00:00 +00:00
 image: /publications/images/progdtd.png
 author: "A Hojjat, J Haberer, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, O Landsiedel"
-venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Workshop)"
+venue: "NTIRE workshop, CVPR"
 bib: |
   @inproceedings{Hojjat2023ProgDTD,
     author = {Hojjat, Ali and Haberer, Janek and Landsiedel, Olaf},

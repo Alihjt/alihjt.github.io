@@ -4,7 +4,7 @@ date:   2024-09-26 00:00:00 +00:00
 image: /publications/images/hydravit.png
 author: "J Haberer, A Hojjat, O Landsiedel"
 authors: "J Haberer*, <strong>A Hojjat*</strong> (Equal Contribution), O Landsiedel"
-venue: "Presented at NeurIPS 2024 (Main Track - Poster)"
+venue: "NeurIPS (Main Track - Poster)"
 bib: |
   @inproceedings{Haberer2024HydraViT,
     author = {Haberer, Janek and Hojjat, Ali and Landsiedel, Olaf},

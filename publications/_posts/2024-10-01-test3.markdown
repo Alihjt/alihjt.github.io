@@ -4,7 +4,7 @@ date:   2024-11-29 00:00:00 +00:00
 image: /publications/images/mcucoder.gif
 author: "A Hojjat, J Haberer, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, O Landsiedel"
-venue: "Workshop on Machine Learning & Compression, NeurIPS 2024"
+venue: "Workshop on Machine Learning & Compression, NeurIPS"
 bib: |
   @inproceedings{Hojjat2024MCUCoder,
     author = {Hojjat, Ali and Haberer, Janek and Landsiedel, Olaf},
