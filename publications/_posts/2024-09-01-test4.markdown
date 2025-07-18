@@ -4,19 +4,9 @@ date:   2024-06-03 00:00:00 +00:00
 image: /publications/images/limitnet.gif
 author: "A Hojjat, J Haberer, T Zainab, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, T Zainab, O Landsiedel"
-venue: "ACM MobiSys"
-bib: |
-  @inproceedings{Hojjat2024LimitNet,
-    author = {Hojjat, Ali and Haberer, Janek and Zainab, Tayyaba and Landsiedel, Olaf},
-    title = {LimitNet: Progressive, Content‑Aware Image Offloading for Extremely Weak Devices \& Networks},
-    booktitle = {Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services (MobiSys)},
-    year = {2024},
-    month = {June},
-    pages = {519--533},
-    doi = {10.1145/3643832.3661856}
-  }
+venue: "ACM MobiSys-Oral"
 links:
-  Code: https://github.com/ds-kiel/LimitNet
+  GitHub: https://github.com/ds-kiel/LimitNet
   arXiv: https://arxiv.org/abs/2504.13736
 ---
 LimitNet is a **progressive, content-aware encoder** for extremely weak IoT devices using LPWAN-style networks. It prioritizes and transmits only the most informative parts of an image, enabling cloud inference under severe bandwidth, packet loss, and device constraints—achieving up to **18 pp higher accuracy on CIFAR‑100** and **83% bandwidth savings** compared to SOTA. 
