@@ -3,7 +3,7 @@ title:  "HydraViT: Stacking Heads for a Scalable ViT"
 date:   2024-09-26 00:00:00 +00:00
 image: /publications/images/hydravit.png
 author: "J Haberer, A Hojjat, O Landsiedel"
-authors: "J Haberer*, <strong>A Hojjat *(Equal Contribution), O Landsiedel"
+authors: "J Haberer*, <strong>A Hojjat*<strong> (Equal Contribution), O Landsiedel"
 venue: "Presented at NeurIPS 2024 (Main Track - Poster)"
 bib: |
   @inproceedings{Haberer2024HydraViT,

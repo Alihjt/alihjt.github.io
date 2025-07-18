@@ -17,19 +17,19 @@ avatar: images/prof.jpeg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  # dribbble:
   email:
-  facebook:
+  # facebook:
   flickr:
   github:
-  instagram:
+  # instagram:
   linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  # pinterest:
+  # rss: # just type anything here for a working RSS icon
+  # twitter:
+  # stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  # youtube: # channel/<your_long_string> or user/<user-name>
+  # googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -42,7 +42,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://vsimkus.github.io/academic-jekyll/" # the base hostname & protocol for your site
+url: "https://alihjt.github.io/" # the base hostname & protocol for your site
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
