@@ -1,8 +1,8 @@
 ---
 title:  "ProgDTD: Progressive learned image compression with double-tail-drop training"
 date:   2023-01-01 00:00:00 +00:00
-image: /publications/images/project-image-on-hover.jpg
-image_onhover: /publications/images/project-image.jpg
+image: /publications/images/limitnet.gif
+image_onhover: /publications/images/limitnet.gif
 author: "A Hojjat, J Haberer, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, O Landsiedel"
 venue: "Accepted at NTIRE Workshop, CVPR"
