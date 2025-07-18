@@ -18,4 +18,4 @@ links:
   Code: https://github.com/ds‑kiel/ProgDTD
   arXiv: https://arxiv.org/abs/2305.02145
 ---
-This paper introduces **ProgDTD**, a training method that enforces **progressive learned image compression** by prioritizing bottleneck information using a double-tail-drop strategy—without adding extra model parameters—yielding progressive transmission with quality comparable to non‑progressive counterparts ().
+This paper introduces **ProgDTD**, a training method that enforces **progressive learned image compression** by prioritizing bottleneck information using a double-tail-drop strategy—without adding extra model parameters—yielding progressive transmission with quality comparable to non‑progressive counterparts.
