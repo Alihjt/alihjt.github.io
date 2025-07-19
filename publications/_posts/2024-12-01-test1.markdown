@@ -1,0 +1,12 @@
+---
+title:  "ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference"
+date:   2025-07-16 00:00:00 +00:00
+image: /publications/images/thinkingvit.png
+author: "A Hojjat, J Haberer, S Pirk, O Landsiedel"
+authors: "<strong>A Hojjat</strong>, J Haberer, S Pirk, O Landsiedel"
+venue: "Under Review"
+links:
+  GitHub: https://github.com/ds-kiel/ThinkingViT
+  arXiv: https://arxiv.org/abs/2507.10800
+---
+**ThinkingViT** introduces a **nested “thinking” Vision Transformer** with progressive inference stages: starting with a small subset of attention heads, it makes an initial prediction—if confident, inference stops early; otherwise, it activates more heads and recycles prior tokens through a learnable recycling mechanism. On ImageNet‑1K, it outperforms nested baselines by **up to 2.0 p.p. at equal throughput** and **2.9 p.p. at equal GMACs** while preserving the backbone architecture .

@@ -1,0 +1,12 @@
+---
+title:  "ProgDTD: Progressive learned image compression with double-tail-drop training"
+date:   2023-05-03 00:00:00 +00:00
+image: /publications/images/progdtd.png
+author: "A Hojjat, J Haberer, O Landsiedel"
+authors: "<strong>A Hojjat</strong>, J Haberer, O Landsiedel"
+venue: "NTIRE workshop, CVPR"
+links:
+  GitHub: https://github.com/ds-kiel/ProgDTD
+  arXiv: https://arxiv.org/abs/2305.02145
+---
+This paper introduces **ProgDTD**, a training method that enforces **progressive learned image compression** by prioritizing bottleneck information using a double-tail-drop strategy—without adding extra model parameters—yielding progressive transmission with quality comparable to non‑progressive counterparts.

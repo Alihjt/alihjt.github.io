@@ -1,0 +1,12 @@
+---
+title:  "HydraViT: Stacking Heads for a Scalable ViT"
+date:   2024-09-26 00:00:00 +00:00
+image: /publications/images/hydravit.png
+author: "J Haberer, A Hojjat, O Landsiedel"
+authors: "J Haberer*, <strong>A Hojjat*</strong> (Equal Contribution), O Landsiedel"
+venue: "NeurIPS (Main Track - Poster)"
+links:
+  GitHub: https://github.com/ds-kiel/HydraViT
+  arXiv: https://arxiv.org/abs/2409.17978
+---
+HydraViT introduces a **stacked‑head stochastic training** method for Vision Transformers, producing a single model that embeds up to **10 subnetworks**, each with varying head counts. It adapts dynamically to hardware constraints, yielding an ImageNet‑1K accuracy boost of up to **5 pp at equal GMACs** and **7 pp at equal throughput** versus state‑of‑the‑art baselines.
