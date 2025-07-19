@@ -1,6 +1,6 @@
 ---
 title:  "MCUCoder: Adaptive Bitrate Learned Video Compression for IoT Devices"
-date:   2024-11-29 00:00:00 +00:00
+date:   2024-08-29 00:00:00 +00:00
 image: /publications/images/mcucoder.gif
 author: "A Hojjat, J Haberer, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, O Landsiedel"
