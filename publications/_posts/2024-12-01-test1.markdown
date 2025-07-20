@@ -4,7 +4,7 @@ date:   2025-07-16 00:00:00 +00:00
 image: /publications/images/thinkingvit.png
 author: "A Hojjat, J Haberer, S Pirk, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, S Pirk, O Landsiedel"
-venue: "Under Review"
+venue: "ES-FoMo: Efficient Systems for Foundation Models workshop, ICML"
 links:
   GitHub: https://github.com/ds-kiel/ThinkingViT
   arXiv: https://arxiv.org/abs/2507.10800
