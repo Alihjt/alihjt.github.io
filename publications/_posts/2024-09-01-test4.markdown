@@ -4,7 +4,7 @@ date:   2024-06-03 00:00:00 +00:00
 image: /publications/images/limitnet.gif
 author: "A Hojjat, J Haberer, T Zainab, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, T Zainab, O Landsiedel"
-venue: "ACM MobiSys-Oral"
+venue: "ACM MobiSys (Oral)"
 links:
   GitHub: https://github.com/ds-kiel/LimitNet
   arXiv: https://arxiv.org/abs/2504.13736
