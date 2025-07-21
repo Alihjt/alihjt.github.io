@@ -4,7 +4,7 @@ date:   2024-09-26 00:00:00 +00:00
 image: /publications/images/hydravit.png
 author: "J Haberer, A Hojjat, O Landsiedel"
 authors: "J Haberer*, <strong>A Hojjat*</strong> (Equal Contribution), O Landsiedel"
-venue: "<span style='color: #238b21;'>NeurIPS (Main Track - Poster)</span>"
+venue: "NeurIPS (Main Track - Poster)"
 links:
   GitHub: https://github.com/ds-kiel/HydraViT
   arXiv: https://arxiv.org/abs/2409.17978
