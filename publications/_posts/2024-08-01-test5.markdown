@@ -4,7 +4,7 @@ date:   2023-05-03 00:00:00 +00:00
 image: /publications/images/progdtd.png
 author: "A Hojjat, J Haberer, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, O Landsiedel"
-venue: "NTIRE workshop, CVPR"
+venue: "<span style='color: #238b21;'>NTIRE workshop, CVPR'2023</span>"
 links:
   GitHub: https://github.com/ds-kiel/ProgDTD
   arXiv: https://arxiv.org/abs/2305.02145
