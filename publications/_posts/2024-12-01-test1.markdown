@@ -4,7 +4,7 @@ date:   2025-07-16 00:00:00 +00:00
 image: /publications/images/thinkingvit.png
 author: "A Hojjat, J Haberer, S Pirk, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, S Pirk, O Landsiedel"
-venue: "<span style='color: #2ecc71; font-weight: bold;'>ES-FoMo workshop, ICML</span>"
+venue: "<span style='color: #00d489; font-weight: bold;'>ES-FoMo workshop, ICML</span>"
 links:
   GitHub: https://github.com/ds-kiel/ThinkingViT
   arXiv: https://arxiv.org/abs/2507.10800
