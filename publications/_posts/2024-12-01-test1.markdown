@@ -1,6 +1,6 @@
 ---
 title:  "ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference"
-date:   2025-07-16 00:00:00 +00:00
+date: "<span style='color: #00d489; font-weight: bold;'>2025-07-16</span> 00:00:00 +00:00"
 image: /publications/images/thinkingvit.png
 author: "A Hojjat, J Haberer, S Pirk, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, S Pirk, O Landsiedel"
