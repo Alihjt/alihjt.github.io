@@ -8,5 +8,6 @@ venue: "NeurIPS (Main Track - Poster)"
 links:
   GitHub: https://github.com/ds-kiel/HydraViT
   arXiv: https://arxiv.org/abs/2409.17978
+  Published Version: https://openreview.net/forum?id=kk0Eaunc58
 ---
 HydraViT introduces a **stacked‑head stochastic training** method for Vision Transformers, producing a single model that embeds up to **10 subnetworks**, each with varying head counts. It adapts dynamically to hardware constraints, yielding an ImageNet‑1K accuracy boost of up to **5 pp at equal GMACs** and **7 pp at equal throughput** versus state‑of‑the‑art baselines.

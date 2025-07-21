@@ -8,5 +8,6 @@ venue: "NTIRE workshop, CVPR"
 links:
   GitHub: https://github.com/ds-kiel/ProgDTD
   arXiv: https://arxiv.org/abs/2305.02145
+  Published Version: https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Hojjat_ProgDTD_Progressive_Learned_Image_Compression_With_Double-Tail-Drop_Training_CVPRW_2023_paper.html
 ---
 This paper introduces **ProgDTD**, a training method that enforces **progressive learned image compression** by prioritizing bottleneck information using a double-tail-drop strategy—without adding extra model parameters—yielding progressive transmission with quality comparable to non‑progressive counterparts.

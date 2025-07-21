@@ -8,5 +8,6 @@ venue: "Workshop on Machine Learning & Compression, NeurIPS"
 links:
   GitHub: https://github.com/ds-kiel/MCUCoder
   arXiv: https://arxiv.org/abs/2411.19442
+  Published Version: https://openreview.net/forum?id=ESjy0fQJJE
 ---
 MCUCoder is an **ultra‑lightweight** video compression model for low‑resource IoT devices and MCUs. Its encoder has only **10.5 K parameters** with a **350 KB memory footprint**, yet it achieves **~55.6% bitrate reduction** over M‑JPEG on MCL‑JCV and UVG datasets (MS‑SSIM) while maintaining similar energy efficiency. Crucially, it supports **adaptive bitrate streaming** by ordering latent channels by importance—enabling real‑time transmission under fluctuating bandwidth.

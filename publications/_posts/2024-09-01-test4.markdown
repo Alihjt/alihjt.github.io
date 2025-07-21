@@ -8,5 +8,6 @@ venue: "ACM MobiSys (Oral)"
 links:
   GitHub: https://github.com/ds-kiel/LimitNet
   arXiv: https://arxiv.org/abs/2504.13736
+  Published Version: https://dl.acm.org/doi/10.1145/3643832.3661856
 ---
 LimitNet is a **progressive, content-aware encoder** for extremely weak IoT devices using LPWAN-style networks. It prioritizes and transmits only the most informative parts of an image, enabling cloud inference under severe bandwidth, packet loss, and device constraints—achieving up to **18 pp higher accuracy on CIFAR‑100** and **83% bandwidth savings** compared to SOTA. 

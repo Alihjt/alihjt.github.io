@@ -8,6 +8,6 @@ venue: "ES-FoMo workshop, ICML"
 links:
   GitHub: https://github.com/ds-kiel/ThinkingViT
   arXiv: https://arxiv.org/abs/2507.10800
-  published version: https://openreview.net/forum?id=mFQRyJkFys
+  Published Version: https://openreview.net/forum?id=mFQRyJkFys
 ---
 **ThinkingViT** introduces a **nested “thinking” Vision Transformer** with progressive inference stages: starting with a small subset of attention heads, it makes an initial prediction—if confident, inference stops early; otherwise, it activates more heads and recycles prior tokens through a learnable recycling mechanism. On ImageNet‑1K, it outperforms nested baselines by **up to 2.0 p.p. at equal throughput** and **2.9 p.p. at equal GMACs** while preserving the backbone architecture .
