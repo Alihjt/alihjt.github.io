@@ -191,3 +191,10 @@ body {
   // @extend .text-monospace;
   background-color: #f8f8f8;
 }
+
+/* Keep anchored sections visible below the sticky navbar. */
+#about,
+#news,
+#publications {
+  scroll-margin-top: 5rem;
+}

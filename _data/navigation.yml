@@ -1,6 +1,6 @@
 - name: About
   link: /
-  anchor: '#'
+  anchor: '#about'
   highlight: true
 - name: News
   link: /
