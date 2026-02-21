@@ -1,10 +1,10 @@
 ---
 title:  "ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference"
-date:   2025-07-16 00:00:00 +00:00
+date:   2026-02-01 00:00:00 +00:00
 image: /publications/images/thinkingvit.png
 author: "A Hojjat, J Haberer, S Pirk, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, S Pirk, O Landsiedel"
-venue: "<span style='color: #238b21;'>ES-FoMo workshop, ICML'2025</span>"
+venue: "<span style='color: #238b21;'>CVPR'2026 (Main Track)</span>"
 links:
   GitHub: https://github.com/ds-kiel/ThinkingViT
   arXiv: https://arxiv.org/abs/2507.10800
