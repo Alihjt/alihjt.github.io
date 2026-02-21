@@ -31,7 +31,7 @@ a:hover {
 
 /* Add a subtle external-link indicator for content links. */
 a[href]:not(.nav-link):not(.navbar-brand):not(.btn):not([href^="#"]):not([data-toggle]):not([href=""])::after {
-  content: " \2197";
+  content: " [\1F517]";
   font-size: 0.85em;
   color: #238b21;
 }

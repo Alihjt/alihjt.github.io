@@ -1,2 +1,3 @@
-# From https://github.com/leonidk/new_website
-convert -background transparent "images/circle_crop.png" -define icon:auto-resize=16,24,32,48,64,72,96,128,256 "favicon.ico"
+#!/usr/bin/env bash
+# Generate favicon from the square profile image using ffmpeg.
+ffmpeg -y -i "images/circle_crop.png" -vf "scale=64:64" "favicon.ico"
