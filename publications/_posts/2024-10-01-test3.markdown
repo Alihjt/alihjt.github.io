@@ -4,7 +4,7 @@ date:   2024-08-29 00:00:00 +00:00
 image: /publications/images/mcucoder.gif
 author: "A Hojjat, J Haberer, O Landsiedel"
 authors: "<strong>A Hojjat</strong>, J Haberer, O Landsiedel"
-venue: "<span style='color: #238b21;'>Workshop on Machine Learning & Compression, NeurIPS'2024 - GCPR'2025 (Oral – <span style='color: red;'>Honorable Mention Award</span>)</span>"
+venue: "<span style='color: #238b21;'>Workshop on Machine Learning & Compression, NeurIPS'2024 - GCPR'2025 (Oral – <span style='color: #238b21;'>Honorable Mention Award</span>)</span>"
 links:
   GitHub: https://github.com/ds-kiel/MCUCoder
   arXiv: https://arxiv.org/abs/2411.19442
