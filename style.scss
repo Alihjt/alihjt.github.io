@@ -17,7 +17,7 @@ html {
 }
 
 a {
-  color: #1772d0;
+  color: #238b21;
   text-decoration: none;
   font-family: 'JetBrains Mono', monospace;
   font-display: auto;
@@ -25,8 +25,15 @@ a {
 
 a:focus,
 a:hover {
-  color: #f09228;
+  color: #1b6f1a;
   text-decoration: none;
+}
+
+/* Add a subtle external-link indicator for content links. */
+a[href]:not(.nav-link):not(.navbar-brand):not(.btn):not([href^="#"]):not([data-toggle]):not([href=""])::after {
+  content: " \2197";
+  font-size: 0.85em;
+  color: #238b21;
 }
 
 p {
@@ -153,11 +160,11 @@ body {
 .publication {
   .authors {
     a {
-      color: #000000;
+      color: #238b21;
     }
     a:focus,
     a:hover {
-      color: #f09228;
+      color: #1b6f1a;
       text-decoration: none;
     }
   }
